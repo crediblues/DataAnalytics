@@ -4,7 +4,7 @@ Data Analytics Portfolio by Ooi Wen Xian
 ## Projects
 
 ### Aviation Incidents (Python)
-Goal: To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+Goal: To examine the incident information of airplanes and extract insights on its trends.
 
 Code: eda-aviation-incidents.ipynb
 
