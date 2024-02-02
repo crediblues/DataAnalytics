@@ -6,7 +6,7 @@ Data Analytics Portfolio by Ooi Wen Xian
 ### Aviation Incidents (Python)
 Goal: To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-Code: [eda-aviation-incidents.ipynb](eda-aviation-incidents.ipynb)
+Code: eda-aviation-incidents.ipynb
 
 Description: The dataset contains records of aviation incidents. The records include the date, type, registration,	operator,	fatalities,	location, country, cat and	year. 
 The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing incident data.
