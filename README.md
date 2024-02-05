@@ -16,6 +16,7 @@ Skills: data cleaning, data analysis, data visualization.
 Technology: Python, Pandas, Matplotlib, Seaborn.
 
 Results: Python functions that calculated and visually presented the number of incidents/fatalities by different categories (eg. airplane type, country, year etc). 
+[Dataset](https://www.kaggle.com/datasets/warcoder/civil-aviation-accidents)
 
 ### Titantic (SQL and Tableau)
 Goal: To examine the information about the passengers on the Titanic and extract insights about the survivors.
