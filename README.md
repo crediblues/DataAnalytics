@@ -24,7 +24,7 @@ Goal: To examine the rental housing information in Singapore and extract insight
 
 Code: MonthlyRentalPrices/RSM_Q2.ipynb
 
-Description: The dataset contains records of rental housing data. The records include the date, type, registration,	operator,	fatalities,	location, country, cat and	year. 
+Description: The datasets contains records of rental housing data, geolocations of addresses, and planning boundaries for towns in Singapore
 The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing incident data.
 
 Skills: data analysis, data visualization, geospatial visualization
