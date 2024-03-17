@@ -22,7 +22,9 @@ Results: Python functions that calculated and visually presented the number of i
 ### Rental Housing (Python, Tableau)
 Goal: To examine the rental housing information in Singapore and extract insights on its trends.
 
-Code: MonthlyRentalPrices/RSM_Q2.ipynb
+Code (EDA): MonthlyRentalPrices/RentalPriceDataAnalytics.ipynb
+Code (Visualisation): MonthlyRentalPrices/VIsualisation.twb
+
 
 Description: The datasets contains records of rental housing data, geolocations of addresses, and planning boundaries for towns in Singapore
 The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing incident data.
@@ -31,6 +33,17 @@ Skills: data analysis, data visualization, geospatial visualization
 
 Technology: Python, Pandas, Matplotlib, Folium, Geopandas, Tableau.
 
+### House Prices (Python)
+Goal: To examine housing information and create a model to predict the SalePrice of houses.
+
+Code: HousePrices/HousePrices.ipynb
+
+Description: The datasets contains records of housing data, with a train and test dataset.
+The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), Linear Regression Modelling.
+
+Skills: data analysis, data visualization, geospatial visualization
+
+Technology: Python, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn,
 
 ### Titantic (SQL and Tableau)
 Goal: To examine the information about the passengers on the Titanic and extract insights about the survivors.
