@@ -35,7 +35,7 @@ Skills: data analysis, data visualization, geospatial visualization
 
 Technology: Python, Pandas, Matplotlib, Folium, Geopandas, Tableau.
 
-### House Prices (Python)
+### House Prices (Python - Linear Regression)
 Goal: To examine housing information and create a model to predict the SalePrice of houses.
 
 Code: HousePrices/HousePrices.ipynb
