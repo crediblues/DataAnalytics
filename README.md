@@ -1,5 +1,6 @@
 # Data Analytics
 Data Analytics Portfolio by Ooi Wen Xian
+~ Welcome to my learning journey! ~
 
 ## Projects
 
