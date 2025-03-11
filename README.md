@@ -8,12 +8,12 @@ Data Analytics Portfolio by Ooi Wen Xian
 ### Hotel No-Show Prediction (Python) 
 Goal: To predict the No-Show of customers (using the dataset provided) to help a hotel chain to formulate policies to reduce expenses incurred due to No-Shows
 
-Code: eda.ipynb and files under src folder
+Code: eda.ipynb (EDA) and files under src folder (ML Pipeline)
 
 Description: The dataset contains records of hotel bookings.
 The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), building an End-to-end Machine Learning Pipeline.
 
-Skills: data cleaning, data analysis, building a ml pipeline.
+Skills: data cleaning, data analysis, building a ML Pipeline.
 
 Technology: Python, Pandas, scikit-learn, pickle, sqlite3, argparse, matplotlib, seaborn, numpy, scipy
 
